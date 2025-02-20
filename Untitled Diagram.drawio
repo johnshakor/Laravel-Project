@@ -41,7 +41,7 @@
           <mxGeometry x="130" y="168.5" width="80" height="93" as="geometry" />
         </mxCell>
         <mxCell id="8Kq2zGT-sVUIXKeALAmK-7" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="8Kq2zGT-sVUIXKeALAmK-3">
-          <mxGeometry x="441.75" y="173.5" width="76.5" height="93" as="geometry" />
+          <mxGeometry x="441.75" y="165" width="76.5" height="93" as="geometry" />
         </mxCell>
         <mxCell id="8Kq2zGT-sVUIXKeALAmK-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="8Kq2zGT-sVUIXKeALAmK-3" source="8Kq2zGT-sVUIXKeALAmK-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
